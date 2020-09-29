@@ -1,0 +1,60 @@
+body{
+    margin: 0 auto;
+    text-align: center;
+    width: 95%;
+    max-width: 960px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.header{
+    background: rgba(0, 153, 255, 0.808);
+    padding: 5px;
+    color:white;
+    margin-top: 60px;
+    
+
+}
+.body{
+    padding: 10px;
+    max-width: 50% ;
+    width: 80%;
+    margin: 0 auto;
+    background: rgb(243, 240, 221);
+    border: rgb(255, 123, 0) solid 3px;
+    border-radius: 15px;
+    max-width: 400px;
+    box-shadow: 2px 4px 2px black;
+
+}
+.body form{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.username{
+    width: 95%;
+    padding: 1%;
+    
+}
+.password{
+    width: 95%;
+    padding: 1%;
+}
+.login{
+    width: 90%;
+    padding: 1.5%;
+    color:white;
+    font-size: 15px;
+    background: rgb(0, 81, 255);
+}
+.footer{
+    background: rgb(235, 235, 235);
+    color:rgb(162, 0, 255);
+    padding: 10px;
+}
+.signup{
+    width: 100%;
+    padding: 3%;
+    color:white;
+    font-size: 15px;
+    background:rgb(11, 173, 11);
+}
